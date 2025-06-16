@@ -1,1 +1,1 @@
-# my first git project(main update)
+# awesome git practice project(feature-update)
