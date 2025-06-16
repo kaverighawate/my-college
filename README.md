@@ -1,1 +1,1 @@
-# awesome git practice project(feature-update)
+# awesome git practice project conflicting-feature
