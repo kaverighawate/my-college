@@ -1,1 +1,1 @@
-# awesome git practice 
+conflict resolved
